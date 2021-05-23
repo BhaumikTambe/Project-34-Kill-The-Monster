@@ -51,7 +51,6 @@ function draw() {
   monster.display();
 
   hero.display();
-  rope.display();
 
   box1.display();
   box2.display()
