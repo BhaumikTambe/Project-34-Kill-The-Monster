@@ -50,7 +50,7 @@ function draw() {
 
   monster.display();
 
-  hero.display();
+  //hero.display();
 
   box1.display();
   box2.display()
